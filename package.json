@@ -1,6 +1,6 @@
 {
   "name": "bcremit",
-  "version": "10.0.0",
+  "version": "10.2.4",
   "scripts": {
     "start": "expo start --dev-client",
     "android": "expo run:android",
@@ -89,7 +89,8 @@
     "yargs": "~17.7.2",
     "cross-spawn": " 7.0.6",
     "nanoid": "3.3.8",
-    "cookie": "0.7.2"
+    "cookie": "0.7.2",
+    "image-size": "1.2.1"
   },
   "private": true
 }

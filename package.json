@@ -18,7 +18,7 @@
     "@react-navigation/material-bottom-tabs": "^6.2.28",
     "@react-navigation/native": "^6.1.17",
     "@react-navigation/stack": "^6.3.29",
-    "@rnw-community/react-native-payments": "^0.83.0",
+    "@rnw-community/react-native-payments": "^1.2.0",
     "@types/react": "~18.2.45",
     "axios": "^1.8.4",
     "expo": "~50.0.18",
